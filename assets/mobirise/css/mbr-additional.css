@@ -1363,6 +1363,39 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s7itleraeZ {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s7itleraeZ .counter-container {
+  color: #767676;
+}
+.cid-s7itleraeZ .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-s7itleraeZ .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-s7itleraeZ .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-s6xZrMtLQ8 {
   padding-top: 30px;
   padding-bottom: 0px;
