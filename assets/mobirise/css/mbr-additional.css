@@ -1225,6 +1225,19 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
+.cid-s9cndXuPNg {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-s9cndXuPNg .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s9cndXuPNg .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s6xjcmSNKZ {
   padding-top: 0px;
   padding-bottom: 0px;
